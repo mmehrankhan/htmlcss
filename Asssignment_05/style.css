@@ -1,0 +1,32 @@
+main{
+display: flex;
+}
+div{
+    border:1px solid black;
+    border-radius:15px;
+    border-width: 50px; 
+    padding: 75px;
+    height: 400px;
+}
+div:hover{
+    background-color:rgb(212, 28, 203) ;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h4{
+    border:1px solid black;
+    border-radius:15px; 
+    text-align: center;
+    width: 120px;
+    margin-left: 20px;
+}
+span{
+    width: 20px;
+    height: 20px;
+}
